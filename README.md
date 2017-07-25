@@ -1,0 +1,1 @@
+# Gojs-elements-with-icons-and-drop-restriction
